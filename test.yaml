@@ -1,6 +1,6 @@
 # Dataset
 
-path:  "../datasets_new"  # Hauptordner
+path:  "../datasets"  # Hauptordner
 
 train: "images/train"  # 80 % der Bilder
 
