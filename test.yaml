@@ -1,0 +1,16 @@
+# Dataset
+
+path:  "../datasets_new"  # Hauptordner
+
+train: "images/train"  # 80 % der Bilder
+
+val:   "images/val"  # 10 % der Bilder
+
+#test:  ""  # 10 % der Bilder
+
+
+# Classes
+
+names:
+  0: Left
+  1: Right
